@@ -1,0 +1,17 @@
+h5{
+    color:navy;
+    
+}
+p{
+    color:navy;
+}
+h3{
+    color: orangered;
+    font-family: fantasy;
+}
+.about{
+    background-image: linear-gradient(to right,snow,cyan,white);
+}
+.contact{
+    background-image: linear-gradient(to right,white,lightgrey,white);
+}
